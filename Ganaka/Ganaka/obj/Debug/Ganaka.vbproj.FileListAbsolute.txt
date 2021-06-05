@@ -1,0 +1,20 @@
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\bin\Debug\Ganaka.exe
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\bin\Debug\Ganaka.pdb
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\bin\Debug\Ganaka.xml
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.frmMain.resources
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.Resources.resources
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.vbproj.GenerateResource.Cache
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.exe
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.xml
+C:\Users\Murtuza\AppData\Local\Temporary Projects\Ganaka\obj\Debug\Ganaka.pdb
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.exe
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.xml
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.pdb
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\bin\Debug\Ganaka.exe
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\bin\Debug\Ganaka.pdb
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\bin\Debug\Ganaka.xml
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.Resources.resources
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.vbproj.GenerateResource.Cache
+C:\Users\Murtuza\Dropbox\Projects\Ganaka\Ganaka\obj\Debug\Ganaka.frmGanaka.resources
